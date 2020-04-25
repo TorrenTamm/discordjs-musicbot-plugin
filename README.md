@@ -1,11 +1,6 @@
 ## A Little Notice:
-Recently most members of my Discord server have been banned from it. All bans have been removed but we obvouisly can't track you all down and shove invite links at you. So, feel free to re-join the server: [https://discordapp.com/invite/JHMtwhG](https://discordapp.com/invite/JHMtwhG)
-<div align="center">
-  <p>
-    <a href="https://nodei.co/npm/discord.js-musicbot-addon
-/"><img src="https://nodei.co/npm/discord.js-musicbot-addon.png?downloads=true&stars=true" alt="NPM info" /></a>
-  </p>
-</div>  
+As you may know, Discord.js recently updated to version 12, which lead to the previous plugin by [DarkoPendragon](https://github.com/DarkoPendragon/) to be deprecated. I have picked up his work and fully updated the plugin to Version 12.
+All credit for the pre-existing plugin goes to [DarkoPendragon](https://github.com/DarkoPendragon/)
 
 # Discord MusicBot Addon
 ***  
@@ -45,12 +40,11 @@ Required for voice. Discord.js _prefers_ node-opus.
 
 __Installation:__  
 * `npm install discord.js-musicbot-addon`  
-If you have troubles installing, see [this link](https://github.com/DarkoPendragon/discord.js-musicbot-addon/wiki/Installation-&-Troubleshooting) or [join the discord server](https://discordapp.com/invite/JHMtwhG).
 Note that the NPM version will be *slightly behind* the GitHub version.
 
 # Examples
 ***  
-See [this page](https://github.com/DarkoPendragon/discord.js-musicbot-addon/blob/master/examples/examples.md) on the repo for examples.
+See [this page](https://github.com/TorrenTamm/discord.js-musicbot-plugin/blob/master/examples/examples.md) on the repo for examples.
 
 # Options & Config.
 ***
@@ -95,7 +89,7 @@ The options you can pass in `music.start(client, {options})` and their types is 
 // Exmaple Map Structure
 {serverID: { prefix: "!" } }
 ```
-See [examples](https://github.com/DarkoPendragon/discord.js-musicbot-addon/blob/master/examples/examples.md) for more info.
+See [examples](https://github.com/TorrenTamm/discord.js-musicbot-plugin/blob/master/examples/examples.md) for more info.
 ## Cooldown
 | Option | Type | Description | Default |  
 | --- | --- | --- | --- |
