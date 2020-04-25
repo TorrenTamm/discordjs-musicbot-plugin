@@ -7,8 +7,14 @@
     "example": "examples"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
+  "dependencies": {
+  "ytdl-core": "^1.0.7",
+  "ytpl": "^0.1.18",
+  "ytsearcher": "^1.2.2"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TorrenTamm/discordjs-musicbot-plugin.git"

@@ -10,7 +10,7 @@ const client = new Discord.Client();
 // Put the Music module in the new Client object.
 // This allows for easy access to all the modules
 // functions and data.
-client.music = require("discord.js-musicbot-addon");
+client.music = require("discordjs-music-plugin");
 
 // Now we start the music module.
 client.music.start(client, {
@@ -176,4 +176,4 @@ Music.start(client, {
 ```
 
 # Other questions?
-Feel free [to join my Discord](https://discordapp.com/invite/JHMtwhG) and I or someone else will assist you.
+Feel free to DM me in discord, [CLASSIFIED]#9999
