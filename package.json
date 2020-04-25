@@ -1,5 +1,5 @@
 {
-  "name": "discordjs-musicbot-plugin",
+  "name": "discordjs-music-plugin",
   "version": "14.1.0",
   "description": "A simple Node.js based music extension/bot for Discord.js projects using YouTube.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TorrenTamm/discord.js-musicbot-plugin.git"
+    "url": "git+https://github.com/TorrenTamm/discordjs-musicbot-plugin.git"
   },
   "keywords": [
     "\"discord\"",
@@ -24,7 +24,7 @@
   "author": "TorrenTamm",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TorrenTamm/discord.js-musicbot-plugin/issues"
+    "url": "https://github.com/TorrenTamm/discordjs-musicbot-plugin/issues"
   },
-  "homepage": "https://github.com/TorrenTamm/discord.js-musicbot-plugin#readme"
+  "homepage": "https://github.com/TorrenTamm/discordjs-musicbot-plugin#readme"
 }
