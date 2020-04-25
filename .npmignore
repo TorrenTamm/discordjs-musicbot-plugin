@@ -1,0 +1,4 @@
+.*.swp
+.config
+node_modules
+changelog.md
